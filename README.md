@@ -1,2 +1,3 @@
 # MoreUIAlertController
 同时出现多个UIAlertController
+解决多个UIAlertController同时出现 后面不弹窗的问题
